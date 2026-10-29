@@ -14,6 +14,7 @@
 | 주차 | 활동일 | 문제 | 난이도 | 학습 주제 |
 | --- | --- | --- | --- | --- |
 | 2주차 | 2026-10-12 | [2110. 공유기 설치](problems/week02/README.md) | Gold IV | 정렬, 이분 탐색 |
+| 4주차 | 2026-10-26 (예정) | [1931. 회의실 배정](problems/week04/README.md) | Gold V | 정렬, 탐욕적 알고리즘 |
 
 ## 개인 브랜치에서 문제 가져오기
 
@@ -26,3 +27,5 @@ git merge origin/main
 ```
 
 문제를 푼 뒤 `solutions/<github-id>/weekNN/`에 코드와 해설을 추가하고 개인 브랜치에 커밋합니다.
+
+풀이를 정리할 때 [공통 풀이 양식](solutions/TEMPLATE.md)을 복사해 사용할 수 있습니다.
