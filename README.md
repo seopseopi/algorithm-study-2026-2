@@ -28,4 +28,3 @@ git merge origin/main
 
 문제를 푼 뒤 `solutions/<github-id>/weekNN/`에 코드와 해설을 추가하고 개인 브랜치에 커밋합니다.
 
-풀이를 정리할 때 [공통 풀이 양식](solutions/TEMPLATE.md)을 복사해 사용할 수 있습니다.
