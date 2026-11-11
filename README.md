@@ -16,6 +16,7 @@
 | 2주차 | 2026-10-12 | [2110. 공유기 설치](problems/week02/README.md) | Gold IV | 정렬, 이분 탐색 |
 | 4주차 | 2026-10-26 | [1931. 회의실 배정](problems/week04/README.md) | Gold V | 정렬, 탐욕적 알고리즘 |
 | 5주차 | 2026-11-02 | [1715. 카드 정렬하기](problems/week05/README.md) | Gold IV | 탐욕적 알고리즘, 우선순위 큐 |
+| 6주차 | 2026-11-09 | [1744. 수 묶기](problems/week06/README.md) | Gold IV | 정렬, 탐욕적 알고리즘 |
 
 ## 개인 브랜치에서 문제 가져오기
 
