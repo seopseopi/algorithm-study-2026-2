@@ -18,6 +18,7 @@
 | 5주차 | 2026-11-02 | [1715. 카드 정렬하기](problems/week05/README.md) | Gold IV | 탐욕적 알고리즘, 우선순위 큐 |
 | 6주차 | 2026-11-09 | [1744. 수 묶기](problems/week06/README.md) | Gold IV | 정렬, 탐욕적 알고리즘 |
 | 7주차 | 2026-11-16 | [11000. 강의실 배정](problems/week07/README.md) | Gold V | 정렬, 탐욕적 알고리즘, 우선순위 큐 |
+| 8주차 | 2026-11-23 | [2212. 센서](problems/week08/README.md) | Gold V | 정렬, 탐욕적 알고리즘 |
 
 ## 개인 브랜치에서 문제 가져오기
 
