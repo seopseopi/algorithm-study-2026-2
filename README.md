@@ -18,6 +18,7 @@
 | 5주차 | 2026-11-02 | [1715. 카드 정렬하기](https://www.acmicpc.net/problem/1715) | Gold IV | 탐욕적 알고리즘, 우선순위 큐 |
 | 6주차 | 2026-11-12 | [1744. 수 묶기](https://www.acmicpc.net/problem/1744) | Gold IV | 정렬, 탐욕적 알고리즘 |
 | 7주차 | 2026-11-20 | [11000. 강의실 배정](https://www.acmicpc.net/problem/11000) | Gold V | 그리디 알고리즘, 우선순위 큐 |
+| 8주차 | 2026-11-27 | [2212. 센서](https://www.acmicpc.net/problem/2212) | Gold V | 그리디 알고리즘, 정렬 |
 
 ## 개인 브랜치에서 문제 가져오기
 
